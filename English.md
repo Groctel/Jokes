@@ -37,4 +37,12 @@ Write a short title for your joke and add it at the top. There are a few simple 
 - **Q:** What has two butts and kills people?
 - **A:** An assassin
 
+## CONSTRUCTION
 
+- **Q:** Want to hear a joke about construction? 
+- **A:** I'm still working on it.
+
+## BROWN STICK
+
+- **Q:** What's brown and sticky?
+- **A:** A stick.
