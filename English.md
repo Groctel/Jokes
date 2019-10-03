@@ -66,3 +66,7 @@ Write a short title for your joke and add it at the top. There are a few simple 
 
 - **Q:** What has two butts and kills people?
 - **A:** An assassin
+
+## TENSE
+
+- The past, the present and the future walked into a bar. It was tense
