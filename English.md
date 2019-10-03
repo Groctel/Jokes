@@ -16,6 +16,7 @@ Write a short title for your joke and add it at the top. There are a few simple 
 
 # INDEX
 
+- [TENSE](#id7)
 - [CONSTRUCTION](#id6)
 - [BROWN STICK](#id5)
 - [HOLY WATER](#id4)
@@ -24,6 +25,12 @@ Write a short title for your joke and add it at the top. There are a few simple 
 - [ASS-ASSINS](#id1)
 
 # JOKES START HERE:
+
+<div id='id7'/>
+
+## TENSE
+
+- The past, the present and the future walked into a bar. It was tense
 
 <div id='id6'/>
 
