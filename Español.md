@@ -19,6 +19,7 @@ Escribe un título corto para tu chiste y añádelo en la parte superior (es una
 
 # ÍNDICE
 
+- [EL CARACOL](#id102)
 - [EL CHOCOBOLLO](#id101)
 - [EL MUELLE](#id100)
 - [LA ORDEN SILENCIOSA](#id99)
@@ -123,7 +124,16 @@ Escribe un título corto para tu chiste y añádelo en la parte superior (es una
 
 # LOS CHISTES EMPIEZAN AQUÍ:
 
+<div id='id102'/>
+
+## EL CARACOL
+- **P** Esto va un caracol y derrapa. ¿Te ha hecho gracia?
+- **R** No
+- Pues la vieja a la que atropelló tampoco.
+
+
 <div id='id101'/>
+
 ## EL CHOCOBOLLO
 
 *Chiste de dos partes, contar la primera parte a la inocente víctima como si de un chiste normal se tratase.*
@@ -152,6 +162,7 @@ El chocobollo.
 Va un barco a un muelle y rebota.
 
 <div id='id99'/>
+
 ## LA ORDEN SILENCIOSA
 
 - Buenas, me gustaría entrar en su monasterio.
