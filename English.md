@@ -16,14 +16,28 @@ Write a short title for your joke and add it at the top. There are a few simple 
 
 # INDEX
 
+- [CONSTRUCTION](#id6)
+- [BROWN STICK](#id5)
 - [HOLY WATER](#id4)
 - [LANGUAGES](#id3)
 - [VEGETARIAN ZOMBIES](#id2)
 - [ASS-ASSINS](#id1)
 
-
-
 # JOKES START HERE:
+
+<div id='id6'/>
+
+## CONSTRUCTION
+
+- **Q:** Want to hear a joke about construction? 
+- **A:** I'm still working on it.
+
+<div id='id5'/>
+
+## BROWN STICK
+
+- **Q:** What's brown and sticky?
+- **A:** A stick.
 
 <div id='id4'/>
 
