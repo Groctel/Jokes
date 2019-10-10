@@ -19,7 +19,7 @@ Escribe un título corto para tu chiste y añádelo en la parte superior (es una
 
 # ÍNDICE
 
-- [EL CAFE].(#id104)
+- [EL CAFE](#id104)
 - [EL BIZCO](#id103)
 - [EL CARACOL](#id102)
 - [EL CHOCOBOLLO](#id101)
