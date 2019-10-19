@@ -11,7 +11,7 @@ Both Spanish(`Español.md`) and English (`English.md`) are available as of now. 
 
 Write a short title for your joke and add it at the top. There are a few simple rules to make this enjoyable for everybody:
 
-- Don't submit offensive, sexual or dark humour jokes.
+- Do not submit offensive, sexual or dark humour jokes.
 - Avoid context as much as possible. Leave the joke's essence so that readers can complete it the way they want.
 - Keep it as short as possible.
 - Have fun!

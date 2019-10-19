@@ -19,7 +19,8 @@ Escribe un título corto para tu chiste y añádelo en la parte superior (es una
 
 # ÍNDICE
 
-- [CAPITÁN](#id104)
+- [CAPITÁN](#id105)
+- [EL CAFE](#id104)
 - [EL BIZCO](#id103)
 - [EL CARACOL](#id102)
 - [EL CHOCOBOLLO](#id101)
@@ -126,12 +127,18 @@ Escribe un título corto para tu chiste y añádelo en la parte superior (es una
 
 # LOS CHISTES EMPIEZAN AQUÍ:
 
-<div id='id104'/>
+<div id='id105'/>
+
 ## CAPITÁN
 - ¡Capitán! ¡Capitán! ¡Veo un barco a la derecha!
 - Marinero, se dice estribor.
 - Capitán! ¡Capitán! ¡Veo un estribor a la derecha!
 
+<div id='id104'>
+
+## EL CAFE
+- Me da un café con leche corto.
+- Se me ha roto la máquina, cambio.
 
 <div id='id103'/>
 ## El BIZCO
