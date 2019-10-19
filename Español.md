@@ -19,6 +19,7 @@ Escribe un título corto para tu chiste y añádelo en la parte superior (es una
 
 # ÍNDICE
 
+- [CAPITÁN](#id105)
 - [EL CAFE](#id104)
 - [EL BIZCO](#id103)
 - [EL CARACOL](#id102)
@@ -126,31 +127,35 @@ Escribe un título corto para tu chiste y añádelo en la parte superior (es una
 
 # LOS CHISTES EMPIEZAN AQUÍ:
 
-<div id='id104'/>
+<div id='id105'/>
+
+## CAPITÁN
+- ¡Capitán! ¡Capitán! ¡Veo un barco a la derecha!
+- Marinero, se dice estribor.
+- Capitán! ¡Capitán! ¡Veo un estribor a la derecha!
+
+<div id='id104'>
 
 ## EL CAFE
 - Me da un café con leche corto.
 - Se me ha roto la máquina, cambio.
 
 <div id='id103'/>
-
 ## El BIZCO
 Esto son dos chicos, un chaval y su amigo bizco.
-- Dice el amigo: Nos vemos tio!
-- Dice el bizco: Hasta luego chavales!!
+- Dice el amigo: ¡Nos vemos tio!
+- Dice el bizco: ¡¡Hasta luego chavales!!
 
 
 <div id='id102'/>
-
 ## EL CARACOL
 
 - **P** Esto va un caracol y derrapa. ¿Te ha hecho gracia?
-- **R** No
-- Pues la vieja a la que atropelló tampoco.
+- **R** No.
+- Pues a la vieja que atropelló tampoco.
 
 
 <div id='id101'/>
-
 ## EL CHOCOBOLLO
 
 *Chiste de dos partes, contar la primera parte a la inocente víctima como si de un chiste normal se tratase.*
@@ -174,13 +179,11 @@ Piden una langosta para comer, y el hombre se espera hasta que llega la comida. 
 El chocobollo.
 
 <div id='id100'/>
-
 ## EL MUELLE
 
 Va un barco a un muelle y rebota.
 
 <div id='id99'/>
-
 ## LA ORDEN SILENCIOSA
 
 - Buenas, me gustaría entrar en su monasterio.
@@ -205,30 +208,26 @@ Va un barco a un muelle y rebota.
 - Normal, si llevas quejándote desde el primer día.
 
 <div id='id98'/>
-
 ## EL CÁLCULO RENAL
 
-- Doctor, ¿que tengo?
+- Doctor, ¿qué tengo?
 - Tiene usted piedras en el riñón.
 - ¿Es grave?
-- No, grave no. Es grava, gravilla, arenilla, son piedras.
+- No, grave no. Es grava, gravilla, arenilla... Son piedras.
 
 <div id='id97'/>
-
 ## AIRE ACONDICIONADO
 
-- Encended el aire, pero no lo pongais muy alto.
-- Bueno, vale, pero ya esta casi tocando el techo.
+- Encended el aire, pero no lo pongáis muy alto.
+- Bueno, vale, pero ya está casi tocando el techo.
 
 <div id='id96'/>
-
 ## EL INFORMÁTICO AMARGADO
 
 - **P:** ¿Por qué la gente me trata como un objeto?
 - **R:** Porque soy un tipo con clase.
 
 <div id='id95'/>
-
 ## EL CUADRO BARROCO
 
 - Me encanta el cuadro que tienes en esa pared.
@@ -236,14 +235,12 @@ Va un barco a un muelle y rebota.
 - Bueno vale, el cuadro que tienes en ese murillo.
 
 <div id='id94'/>
-
 ## LAS APUESTAS DEL ESTADO
 
 - Niño, echa la Primitiva.
 - ¡Abuela, a la puta calle!
 
 <div id='id93'/>
-
 ## EL PIZZERO RICO
 
 - Pizzería La Italiana, ¿dígame?
@@ -253,13 +250,11 @@ Va un barco a un muelle y rebota.
 - Ya te digo, ¡lo heredé todo!
 
 <div id='id92'/>
-
 ## CURSO DE MANIPULADOR DE ALIMENTOS
 
 - Oye, lechuga, ¿sabes lo que va diciendo el maíz sobre tu madre?
 
 <div id='id91'/>
-
 ## NÚMEROS Y COLORES
 
 - Doctor, vengo porque confundo los números con los colores.
@@ -267,7 +262,6 @@ Va un barco a un muelle y rebota.
 - ¡Por el culo te la hinco!
 
 <div id='id90'/>
-
 ## EL EXAMEN IMPOSIBLE
 
 - ¿Cómo te ha salido el examen?
@@ -279,21 +273,18 @@ Va un barco a un muelle y rebota.
 - Entiendo.
 
 <div id='id89'/>
-
 ## EL PLÁTANO BLANDO
 
 - Camarero, este plátano está blando.
 - Pues dígale que se calle.
 
 <div id='id88'/>
-
 ## EL VIDEOCLUB
 
 - Buenos días, me gustaría alquilar Batman Forever.
 - No es posible, tiene que devolverla tomorrow.
 
 <div id='id87'/>
-
 ## EL PEPINO DEL GINTONIC
 
 - Camarero, un gintonic, por favor.
@@ -301,24 +292,21 @@ Va un barco a un muelle y rebota.
 - Desde el primer día que lo vi.
 
 <div id='id86'/>
-
 ## LA HEMIPLEJIA
 
 - Doctor, mi marido ha tenido una hemiplejia. ¿Qué hago?
 - Mírelo por el lado bueno.
 
 <div id='id85'/>
-
 ## EL TUMBADO DEL ENTIERRO:
 
 En un entierro:
 
 - Lo siento.
-- No, no. Déjelo tumbado.
+- No, no; déjelo tumbado.
 
 
 <div id='id84'/>
-
 ## EL ESTANQUE DE LOS MUERTOS
 
 - Lo siento señor, hemos encontrado a toda su familia en el estanque. Están muertos.
@@ -326,14 +314,12 @@ En un entierro:
 - Sí hombre, donde viven los patos.
 
 <div id='id83'/>
-
 ## LA BOMBILLA EMBARAZADA
 
 - **P:** ¿Por qué la bombilla tiene panza?
 - **R:** Porque va dar a luz.
 
 <div id='id82'/>
-
 ## EL JARDINERO DESEMPLEADO
 
 En una agencia de empleo:
@@ -343,7 +329,6 @@ En una agencia de empleo:
 - ¿Dejar dinero? ¡Pero si yo quiero que me lo den!
 
 <div id='id81'/>
-
 ## EL ENCHUFE DE TODA LA VIDA
 
 *Señalar un enchufe*
@@ -351,7 +336,6 @@ En una agencia de empleo:
 - Un enchufe normal... y corriente.
 
 <div id='id80'/>
-
 ## EL ANÁLISIS DE HECES
 
 - Soy nuevo en el laboratorio. ¿Me ayudas con este análisis de heces?
@@ -359,13 +343,11 @@ En una agencia de empleo:
 - Joder, qué vista tienes. 
 
 <div id='id79'/>
-
 ## BADUMTSS
 
 Un chico entra a una tienda de música y compra una batería. ***BaDumTss***
 
 <div id='id78'/>
-
 ## EL BORRACHO Y EL CIEGO
 
 - ¿Qué haces llevándote a ese hombre invidente?
@@ -374,28 +356,24 @@ Un chico entra a una tienda de música y compra una batería. ***BaDumTss***
 - Díselo a él.
 
 <div id='id77'/>
-
 ## EL JUICIO DE LOS CANIS
 
 - **P:** ¿Dónde van los canis cuando se les denuncian?
 - **R:** Al tribunal ShUrPrheMoh
 
 <div id='id76'/>
-
 ## ¿SUSPIRÁIS?
 
 - ¿Suspiráis?
-- No nos quedamos
+- No, nos quedamos.
 
 <div id='id75'/>
-
 ## EL MUDO BAILARÍN
 
 - **P:** ¿Qué hace un mudo bailando en el salón?
-- **R:** La mudanza
+- **R:** La mudanza.
 
 <div id='id74'/>
-
 ## EL PANADERO RICO
 
 - Amasé una fortuna.
@@ -403,49 +381,42 @@ Un chico entra a una tienda de música y compra una batería. ***BaDumTss***
 - En una panadería
 
 <div id='id73'/>
-
 ## LOS REYES MAGOS
 
 Melchor, Gaspar, Basaltar y se cayó.
 
 <div id='id72'/>
-
 ## EL PANADERO VAGO
 
 - **P:** ¿Qué es un panadero que no quiere trabajar?
-- **R:** Un baguette
+- **R:** Un baguette.
 
 <div id='id71'/>
-
 ## LA INFANCIA PARISINA
 
-Si nunca fuiste a París no tuviste in Francia
+Si nunca fuiste a París no tuviste in Francia.
 
 <div id='id70'/>
-
 ## LA ABUELA INFORMÁTICA
 
 - ¡Abuela! ¿Qué haces sentada delante del ordenador con lo ojos cerrados? 
 - Me puso que tenía que cerrar las pestañas.
 
 <div id='id69'/>
-
 ## CUENTA CON...
 
 - Cuenta con mi espada.
 - Y con mi arco.
 - Y  con mi ábaco.
-- Veis tios, por fin alguien que me da algo útil para contar…
+- Veis tíos, por fin alguien que me da algo útil para contar…
 
 <div id='id68'/>
-
 ## CASI RACISTA
 
 - **P:** ¿Qué es negro y está colgado en mi patio?
 - **R:** Mi columpio
 
 <div id='id67'/>
-
 ## 40 GRADOS A BABOR
 
 - ¡40 grados a babor!
@@ -453,7 +424,6 @@ Si nunca fuiste a París no tuviste in Francia
 Y Babor murió calcinado.
 
 <div id='id66'/>
-
 ## ABORDAR EL BARCO
 
 - ¡Abordar el barco!
@@ -461,28 +431,24 @@ Y Babor murió calcinado.
 Y el barco quedo precioso.
 
 <div id='id65'/>
-
 ## LA SONRISA
 
 - **P:** ¿Sabéis lo que me hace sonreír?
 - **R:** Los músculos de la cara.
 
 <div id='id64'/>
-
 ## LA PINTURA DE COLORES
 
 - **P:** ¿Qué es azul y huele a pintura roja?
 - **R:** La pintura azul.
 
 <div id='id63'/>
-
 ## MÉXICO, QUÉ GRAN PAÍS
 
 - **P:** ¿Qué sería México sin tacos?
 - **R:** Un país destacado.
 
 <div id='id62'/>
-
 ## EL SUPERTRABAJO
 
 - ¿En qué trabajas? 
@@ -490,14 +456,12 @@ Y el barco quedo precioso.
 - Soy supertaxista en un supercoche, no te jode.
 
 <div id='id61'/>
-
 ## LA CAÍDA MORTAL
 
 - **P:** ¿Qué es blanco y si te cae de un árbol te mata?
 - **R:** Una nevera.
 
 <div id='id60'/>
-
 ## EL NUEVO ELEMENTO
 
 - He descubierto un nuevo elemento.
@@ -505,71 +469,61 @@ Y el barco quedo precioso.
 - No, es Bromo.
 
 <div id='id59'/>
-
 ## EL INTENTO DE LIGAR
 
-- No te das cuenta pero... ¡ Te tengo en el bote!
+- No te das cuenta pero... ¡Te tengo en el bote!
 - ¡Deja de decir gilipolleces y rema, subnormal!
 
 <div id='id58'/>
-
 ## EXTRAÑOS PARECIDOS
 
 - **P:** ¿En qué se parece un perro, un camión y una mesa?
 - **R:** En que no son persianas.
 
 <div id='id57'/>
-
 ## VERDE Y MORTAL
 
 - **P:** ¿Qué es verde y si lo bebes te mata?
 - **R:** Veneno de color verde.
 
 <div id='id56'/>
-
 ## LA ESQUINA CALENTITA
 
 - Hace frío.
 - Vete a la esquina, está a 90 grados.
 
 <div id='id55'/>
-
 ## EL RECLUTA SIN CONTRATO
 
 - ¡Recluta! ¡Fiiiiiirme!
 - ¡Sargento! ¡No veo el booooooli!
 
 <div id='id54'/>
-
 ## LA ESTRUCTURA DE LA TAZA
 
 - ¿De cuántas partes esta formada una taza?
 - Depende de la fuerza del martillazo.
 
 <div id='id53'/>
-
 ## EL PACIENTE CON DOLENCIAS
 
 - Doctor, me duele aquí.
 - Pues póngase allí.
 - Doctor, me sigue doliendo.
-- Doliendo no le sigas.
+- Doliendo, no le sigas.
 
 <div id='id52'/>
-
 ## EL PACIENTE CON MÚLTIPLES DOLENCIAS
 
-- Doctor me duele cuando me toco aquí, aquí, aquí, aquí, aquí...
+- Doctor, me duele cuando me toco aquí, aquí, aquí, aquí, aquí...
 - Lo que tiene usted es el dedo roto, caballero.
 
 <div id='id51'/>
-
 ## LA PRIMERA LEY DE LA AUTOMOVILÍSTICA
 
-Los automóviles ni se crean ni se destruyen, solo se Transformer.
+Los automóviles ni se crean ni se destruyen, sólo se Transformer.
 
 <div id='id50'/>
-
 ## HAZTE EL SUECO
 
 - Mira, ahí viene Juan. ¡Qué mal me cae! Si nos habla, tú hazte el sueco.
@@ -577,31 +531,27 @@ Los automóviles ni se crean ni se destruyen, solo se Transformer.
 - Hej, John, vad gör du i livet?
 
 <div id='id49'/>
-
 ## LA HARINA DE JACK SPARROW
 
 - **P:** ¿Para qué quieren harina en el barco de Jack sparrow?
 - **R:** (Al ritmo de [piratas del caribe](https://www.youtube.com/watch?v=27mB8verLK8)) Para pan pan, para pan pan, para pan pan para pan.
 
 <div id='id48'/>
-
 ## TE ENTIENDO
 
-- Tío me ha dejado la novia y se ha ido con mi mejor amigo.
-- Sí, Te entiendo perfectamente
+- Tío, me ha dejado la novia y se ha ido con mi mejor amigo.
+- Sí, te entiendo perfectamente
 - ¿Te ha pasado lo mismo?
-- No, pero hablo castellano, como tú.
+- No, pero hablo español, como tú.
 
 <div id='id47'/>
-
 ## EL TRABAJO DE DIBUJO TÉCNICO
 
 - ¿Quedamos para hacer el trabajo de dibujo técnico en mi casa?
-- Vale, me traigo la escuadra y el cartabón?
+- Vale, ¿me traigo la escuadra y el cartabón?
 - ¡No! ¡Mi casa, mis reglas!
 
 <div id='id46'/>
-
 ## EL TIPO SIN MÓVIL
 
 - ¿Tiene usted móvil?
@@ -610,17 +560,15 @@ Los automóviles ni se crean ni se destruyen, solo se Transformer.
 - Sí, sí, segurísimo.
 
 <div id='id45'/>
-
 ## LA SUPERHEROÍNA
 
-- ¿Ves esa tía?
+- ¿Ves a esa tía?
 - Sí, ¿qué pasa?
 - Asegura poder volar y tener una superfuerza.
 - ¿Va de heroína?
 - Por lo que se ve, hasta el culo.
 
 <div id='id44'/>
-
 ## LA MUERTE NATURAL
 
 - ¿De qué murió la víctima?
@@ -629,48 +577,41 @@ Los automóviles ni se crean ni se destruyen, solo se Transformer.
 - Hombre, con un hachazo en la cabeza lo más natural es morirse.
 
 <div id='id43'/>
-
 ## PINGÜINOS DEL DESIERTO
 
 - **P:** ¿Qué hacen una familia de pingüinos en un desierto?
-- **R:** Morir
+- **R:** Morir.
 
 <div id='id42'/>
-
 ## STAR WARS, PELÍCULA POPULAR
 
 Star Wars te tiene que gustar por la fuerza.
 
 <div id='id41'/>
-
 ## LA SOLEDAD
 
 - Me siento solo.
 - Yo también, sentarse es fácil.
 
 <div id='id40'/>
-
 ## LA COMPRA DE PALOMAS
 
-- Me he comprado mil palomas
+- Me he comprado mil palomas.
 - ¿Mensajeras?
 - No, no te ensagero nada.
 
 <div id='id39'/>
-
 ## EL PEZ MAGO
 
-- ¿Que hace un pez mago? 
-- Nada por aquí, nada por allá
+- ¿Qué hace un pez mago? 
+- Nada por aquí, nada por allá.
 
 <div id='id38'/>
-
 ## LA VISITA AL IKEA
 
 Si hay que ir al Ikea se va. Pero ir para nada estantería.
 
 <div id='id37'/>
-
 ## LOS LADRONES DE VASOS
 
 - Ayer llamé a la guardia civil porque unos ladrones robaron en mi casa y se llevaron hasta los vasos.
@@ -678,23 +619,20 @@ Si hay que ir al Ikea se va. Pero ir para nada estantería.
 - Sí, sí… y los de chupito.
 
 <div id='id36'/>
-
 ## ¿BUSCAS PROBLEMAS?
 
-- Oye tú. ¡Si, si tú! ¿Buscas  problemas? 
+- Oye tú. ¡Si, si tú! ¿Buscas problemas? 
 - ¡Sí!
 - Pues apunta: un tren sale de Valladolid a 20 km/h...
 
 <div id='id35'/>
-
 ## EL VAGO
 
-- Soy muy vago
+- Soy muy vago.
 - ¿Por qué? 
 - Puffff...
 
 <div id='id34'/>
-
 ## LA PRIMERA PÁGINA DEL LIBRO
 
 - Escribí un libro.
@@ -702,105 +640,91 @@ Si hay que ir al Ikea se va. Pero ir para nada estantería.
 - Es el índice.
 
 <div id='id33'/>
-
 ## EL CURRÍCULUM BRILLANTE
 
 - Veo que su currículum es bastante brillante.
-- Gracias, lo hice en papel aluminio
+- Gracias, lo hice en papel aluminio.
 
 <div id='id32'/>
-
 ## EL HIJO BOXEADOR
 
-- Mi hijo dejó el beisbol y ahora hace boxeo.
+- Mi hijo dejó el béisbol y ahora hace boxeo.
 - ¿Combate?
-- Con guantes idiota. El bate era de cuando hacía beisbol.
+- Con guantes, idiota. El bate era de cuando hacía béisbol.
 
 <div id='id31'/>
-
 ## I JUST BLUED MYSELF
 
 - ¿Porque te bañas con pintura azul?
-- Porque mi novia vive lejos
+- Porque mi novia vive lejos.
 - ¿Y eso qué tiene que ver?
-- Que quiero vivir azulado
+- Que quiero vivir azulado.
 
 <div id='id30'/>
-
 ## LAS IMPRESORAS
 
 - **P:** ¿Qué le dice una impresora a otra?
 - **R:** ¿Ese papel es tuyo o es impresión mía?
 
 <div id='id29'/>
-
 ## EL ASIENTO DEL CINE
 
 - **P:** ¿Por qué es mejor sentarse en la última fila del cine cuando vas a ver una comedia? 
-- **R:** Porque el que ríe el último, ríe mejor.
+- **R:** Porque quien ríe el último, ríe mejor.
 
 <div id='id28'/>
-
 ## EL SALUDO
 
 - Hola, me llamo Juan, ¿y tú?
 - No, yo no.
 
 <div id='id27'/>
-
 ## EL HERCÚLEO AGUANTE DE RESPIRACIÓN
 
-- Un amigo mio ayer contenió 15 minutos la respiración bajo el agua.
+- Un amigo mío ayer contenió 15 minutos la respiración bajo el agua.
 - Será *contuvo*.
 - No, no, sin tubo ni nada.
 
 <div id='id26'/>
-
 ## EL REENCUENTRO EN LA PIZZERÍA
 
-- Una pizza por favor.
+- Una pizza, por favor.
 - ¿Margarita?
 - ¿María?
 - ¡Cuánto tiempo! ¿Qué es de Pilar?
-- Quitarse los pelos de las piernas
+- Quitarse los pelos de las piernas.
 
 <div id='id25'/>
-
 ## EL CABALLERO DE FALADOR
 
 - ¿Quién era el caballero más redondo de la mesa redonda?
 - Sir Cunferece.
 
 <div id='id24'/>
-
 ## EL PACIENTE TERMINAL
 
 - Doctor, ¿qué tal mis análisis? Me muero por saberlo. 
 - No, por saberlo no…
 
 <div id='id23'/>
-
 ## LA GELATINA
 
 - ¿Qué opinas sobre la gelatina?
 - No sé. Yo estudié la *Y* griega y la *I* latina, pero no la *G* latina, se ve que falté ese día.
 
 <div id='id22'/>
-
 ## EL TERAPEUTA
 
 - **P:** ¿Qué es un terapeuta?
-- **R:** 1024 gigapeutas
+- **R:** 1024 gigapeutas.
 
 <div id='id21'/>
-
 ## LA AUTOPSIA ANIMADA
 
-- ¿Cómo empezamos la autopsia doctor? ¿Análisis de fluídos o abrimos la caja torácica?
+- ¿Cómo empezamos la autopsia doctor? ¿Análisis de fluídos, o abrimos la caja torácica?
 - ¡La caja, la caja! ¡Aquí hemos venido a jugar!
 
 <div id='id20'/>
-
 ## ESTUDIO EN TEOLOGÍA
 
 - ¿Qué estudian los teólogos?
@@ -808,7 +732,6 @@ Si hay que ir al Ikea se va. Pero ir para nada estantería.
 - ¡Pero no te vayas sin contestar!
 
 <div id='id19'/>
-
 ## EL DOCTOR DESPISTADO
 
 - Doctor, creo que le tengo alergia al vino.
@@ -816,14 +739,12 @@ Si hay que ir al Ikea se va. Pero ir para nada estantería.
 - A una consulta médica, doctor por favor concéntrese.
 
 <div id='id18'/>
-
 ## EL PACIENTE CON PRISAS
 
 - Doctor, doctor, dígame qué tengo. Rápido, que no tengo mucho tiempo.
 - Ah. ¿Ya se lo han contado?
 
 <div id='id17'/>
-
 ## EL PEGAMENTO, EL AVIÓN Y LA FAMILIA
 
 - **P:** ¿En qué se diferencian el pegamento, el avión y la familia?
@@ -832,38 +753,32 @@ Si hay que ir al Ikea se va. Pero ir para nada estantería.
 - Bien, gracias.
 
 <div id='id16'/>
-
 ## EL GEMELO DE CRISTO
 
 Si Jesucristo tuviera un hermano gemelo serían clavados.
 
 <div id='id15'/>
-
 ## EL NIÑO SIN PARQUE DE ATRACCIONES
 
 - **P:** ¿Sabes por qué el niño no puede ir al parque de atracciones?
 - **R:** Porque es muy repelente.
 
 <div id='id14'/>
-
 ## EL FANTASMA TORPE
 
 Van dos fantasmas y se cae el del medium.
 
 <div id='id13'/>
-
 ## LOS ZOMBIS PARLANTES
 
 Si dos zombis van por la calle hablando dos idiomas, ¿zombilingües?
 
 <div id='id12'/>
-
 ## EL LABERINTO
 
 Si nunca has ido a un laberinto, no sabes lo que te pierdes.
 
 <div id='id11'/>
-
 ## EL ALQUIER
 
 - ¿Vendes tu casa?
@@ -871,40 +786,34 @@ Si nunca has ido a un laberinto, no sabes lo que te pierdes.
 - ¿Y cuánto pesa?
 
 <div id='id10'/>
-
 ## EL ORIGEN DE LA PORCELANA
 
 - **P:** ¿De dónde sale la porcelana?
-- **R:** De las porceovejas
+- **R:** De las porceovejas.
 
 <div id='id09'/>
-
 ## EL PIRATA CHIVATO
 
 - **P:** ¿Sabes que es un pirata muy chivato?
 - **R:** Un arrrrchivador.
 
 <div id='id08'/>
-
 ## EL MÁS ALLÁ DE LOS ALBAÑILES
 
 ¿Los albañiles van al cielo por sus buenas obras?
 
 <div id='id07'/>
-
 ## EL NOMBRE DEL NIÑO
 
 - ¿Tú que nombre de pila le pondrías a tu hijo?
-- ¿De pila? Duracel.
+- ¿De pila? Duracell.
 
 <div id='id06'/>
-
 ## EL SUEÑO TRIGAL
 
 El otro día soñé que estaba en un campo de cereales. Me desperté todo intrigado.
 
 <div id='id05'/>
-
 ## EL ESCÉPTICO
 
 - No creo en los aliens.
@@ -912,21 +821,18 @@ El otro día soñé que estaba en un campo de cereales. Me desperté todo intrig
 - No, tampoco creo en los transformers.
 
 <div id='id04'/>
-
 ## EL MAGO COMILÓN
 
 - **P:** ¿Sabes cómo se pone un mago después de comer?
-- **R:** Magordito
+- **R:** Magordito.
 
 <div id='id03'/>
-
 ## EL MIOPE
 
 - Doctor, ¿qué pasará si me pongo estas gafas?
 - Ya verás.
 
 <div id='id02'/>
-
 ## PAULO COEHLO
 
 - Paulo Coelho.
@@ -934,7 +840,8 @@ El otro día soñé que estaba en un campo de cereales. Me desperté todo intrig
 
 
 <div id='id01'/>
-
 ## PINTURAS
 
-- ¿Qué es verde y huele como la pintura? Pintura verde
+- **P:** ¿Qué es verde y huele como la pintura? 
+- **R:** Pintura verde
+
