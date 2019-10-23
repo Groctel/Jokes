@@ -19,6 +19,7 @@ Escribe un título corto para tu chiste y añádelo en la parte superior (es una
 
 # ÍNDICE
 
+- [HIENAS COMIENDO](#id106)
 - [CAPITÁN](#id105)
 - [EL CAFE](#id104)
 - [EL BIZCO](#id103)
@@ -126,6 +127,13 @@ Escribe un título corto para tu chiste y añádelo en la parte superior (es una
 - [PINTURAS](#id01)
 
 # LOS CHISTES EMPIEZAN AQUÍ:
+
+<div id='id106'/>
+
+## HIENAS COMIENDO
+Están dos hienas comiéndose una zebra y le dice una a la otra:
+- Oye yo ya no quiero más de esto, ¿quieres mi parte?
+- No, gracias, yo ya estoy "hiena".
 
 <div id='id105'/>
 
