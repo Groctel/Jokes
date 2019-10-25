@@ -19,6 +19,7 @@ Escribe un título corto para tu chiste y añádelo en la parte superior (es una
 
 # ÍNDICE
 
+- [LAS ZAPATILLAS](#id107)
 - [HIENAS COMIENDO](#id106)
 - [CAPITÁN](#id105)
 - [EL CAFE](#id104)
@@ -127,6 +128,13 @@ Escribe un título corto para tu chiste y añádelo en la parte superior (es una
 - [PINTURAS](#id01)
 
 # LOS CHISTES EMPIEZAN AQUÍ:
+
+<div id='id107'/>
+
+## LAS ZAPATILLAS
+- ¿Por qué estás hablando con esas zapatillas?
+- Porque pone "converse"
+
 
 <div id='id106'/>
 
