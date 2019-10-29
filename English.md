@@ -73,3 +73,8 @@ Write a short title for your joke and add it at the top. There are a few simple 
 
 - **Q:** What has two butts and kills people?
 - **A:** An assassin
+
+## PEANUTS
+
+- **Q:** Why did the two peanuts run away from the tough neighborhood at night?
+- **A:**  Because one of them was a-salted (assaulted).
