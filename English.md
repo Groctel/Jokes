@@ -16,6 +16,8 @@ Write a short title for your joke and add it at the top. There are a few simple 
 
 # INDEX
 
+- [PEANUTS](#id8)
+- [KILLER BEE](#id9)
 - [TENSE](#id7)
 - [CONSTRUCTION](#id6)
 - [BROWN STICK](#id5)
@@ -23,8 +25,6 @@ Write a short title for your joke and add it at the top. There are a few simple 
 - [LANGUAGES](#id3)
 - [VEGETARIAN ZOMBIES](#id2)
 - [ASS-ASSINS](#id1)
-- [PEANUTS](#id8)
-- [KILLER BEE](#id9)
 
 # JOKES START HERE:
 
@@ -81,7 +81,7 @@ Write a short title for your joke and add it at the top. There are a few simple 
 ## PEANUTS
 
 - **Q:** Why did the two peanuts run away from the tough neighborhood at night?
-- **A:**  Because one of them was a-salted (assaulted).
+- **A:** Because one of them was a-salted (assaulted).
 
 <div id='id9'/>
 
