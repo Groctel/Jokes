@@ -19,6 +19,7 @@ Escribe un título corto para tu chiste y añádelo en la parte superior (es una
 
 # ÍNDICE
 
+- [PARECIDOS](#id108)
 - [LAS ZAPATILLAS](#id107)
 - [HIENAS COMIENDO](#id106)
 - [CAPITÁN](#id105)
@@ -129,6 +130,19 @@ Escribe un título corto para tu chiste y añádelo en la parte superior (es una
 
 # LOS CHISTES EMPIEZAN AQUÍ:
 
+<div id='id108'/>
+
+## PARECIDOS
+
+*Dos amigos hablando.*
+
+- ¿En qué se parece un avión, un arquitecto y la familia?
+- No sé, ¿en qué?
+- El avión y el arquitecto en que planean.
+- ¿Y la familia?
+- Bien, ¿y la tuya?
+
+
 <div id='id107'/>
 
 ## LAS ZAPATILLAS
@@ -184,7 +198,7 @@ La niña detiene su bicicleta, recoge el aperitivo, y le dice:
 Otros 5 minutos después, otro bache, el Chocobollo se vuelve a caer al suelo.
 La niña recoge el Chocobollo, y lo tira al mar.
 
-*Esperar a que la víctima exprese su descontento hacia el chiste, y después de que haya pasado suficiente tiempo para que se olvide de este (ayuda contar otros chistes malos de por medio), proceder a contar la segunda parte.* 
+*Esperar a que la víctima exprese su descontento hacia el chiste, y después de que haya pasado suficiente tiempo para que se olvide de este (ayuda contar otros chistes malos de por medio), proceder a contar la segunda parte.*
 
 Una vez, una pareja estaba en un crucero de vacaciones. El novio decide proponerse a su novia y le da un anillo. La novia decide aceptar bajo una condición: tira el anillo al agua, y le dice al hombre:
 -Si encuentras el anillo en las próximas 24 horas, me casaré contigo.
@@ -356,7 +370,7 @@ En una agencia de empleo:
 
 - Soy nuevo en el laboratorio. ¿Me ayudas con este análisis de heces?
 - Claro, es pan comido.
-- Joder, qué vista tienes. 
+- Joder, qué vista tienes.
 
 <div id='id79'/>
 ## BADUMTSS
@@ -415,7 +429,7 @@ Si nunca fuiste a París no tuviste in Francia.
 <div id='id70'/>
 ## LA ABUELA INFORMÁTICA
 
-- ¡Abuela! ¿Qué haces sentada delante del ordenador con lo ojos cerrados? 
+- ¡Abuela! ¿Qué haces sentada delante del ordenador con lo ojos cerrados?
 - Me puso que tenía que cerrar las pestañas.
 
 <div id='id69'/>
@@ -467,7 +481,7 @@ Y el barco quedo precioso.
 <div id='id62'/>
 ## EL SUPERTRABAJO
 
-- ¿En qué trabajas? 
+- ¿En qué trabajas?
 - Soy supervisor en un supermercado. ¿Tú?
 - Soy supertaxista en un supercoche, no te jode.
 
@@ -619,7 +633,7 @@ Star Wars te tiene que gustar por la fuerza.
 <div id='id39'/>
 ## EL PEZ MAGO
 
-- ¿Qué hace un pez mago? 
+- ¿Qué hace un pez mago?
 - Nada por aquí, nada por allá.
 
 <div id='id38'/>
@@ -637,7 +651,7 @@ Si hay que ir al Ikea se va. Pero ir para nada estantería.
 <div id='id36'/>
 ## ¿BUSCAS PROBLEMAS?
 
-- Oye tú. ¡Si, si tú! ¿Buscas problemas? 
+- Oye tú. ¡Si, si tú! ¿Buscas problemas?
 - ¡Sí!
 - Pues apunta: un tren sale de Valladolid a 20 km/h...
 
@@ -645,7 +659,7 @@ Si hay que ir al Ikea se va. Pero ir para nada estantería.
 ## EL VAGO
 
 - Soy muy vago.
-- ¿Por qué? 
+- ¿Por qué?
 - Puffff...
 
 <div id='id34'/>
@@ -685,7 +699,7 @@ Si hay que ir al Ikea se va. Pero ir para nada estantería.
 <div id='id29'/>
 ## EL ASIENTO DEL CINE
 
-- **P:** ¿Por qué es mejor sentarse en la última fila del cine cuando vas a ver una comedia? 
+- **P:** ¿Por qué es mejor sentarse en la última fila del cine cuando vas a ver una comedia?
 - **R:** Porque quien ríe el último, ríe mejor.
 
 <div id='id28'/>
@@ -719,7 +733,7 @@ Si hay que ir al Ikea se va. Pero ir para nada estantería.
 <div id='id24'/>
 ## EL PACIENTE TERMINAL
 
-- Doctor, ¿qué tal mis análisis? Me muero por saberlo. 
+- Doctor, ¿qué tal mis análisis? Me muero por saberlo.
 - No, por saberlo no…
 
 <div id='id23'/>
@@ -744,14 +758,14 @@ Si hay que ir al Ikea se va. Pero ir para nada estantería.
 ## ESTUDIO EN TEOLOGÍA
 
 - ¿Qué estudian los teólogos?
-- A Dios. 
+- A Dios.
 - ¡Pero no te vayas sin contestar!
 
 <div id='id19'/>
 ## EL DOCTOR DESPISTADO
 
 - Doctor, creo que le tengo alergia al vino.
-- ¿A qué vino? 
+- ¿A qué vino?
 - A una consulta médica, doctor por favor concéntrese.
 
 <div id='id18'/>
@@ -858,6 +872,5 @@ El otro día soñé que estaba en un campo de cereales. Me desperté todo intrig
 <div id='id01'/>
 ## PINTURAS
 
-- **P:** ¿Qué es verde y huele como la pintura? 
+- **P:** ¿Qué es verde y huele como la pintura?
 - **R:** Pintura verde
-
