@@ -14,76 +14,44 @@ Write a short title for your joke and add it at the top. There are a few simple 
   - In question and answer jokes, write **Q:** and **A:** before their line.
 - **Have fun!**
 
-# INDEX
-
-- [PEANUTS](#id8)
-- [KILLER BEE](#id9)
-- [TENSE](#id7)
-- [CONSTRUCTION](#id6)
-- [BROWN STICK](#id5)
-- [HOLY WATER](#id4)
-- [LANGUAGES](#id3)
-- [VEGETARIAN ZOMBIES](#id2)
-- [ASS-ASSINS](#id1)
-
-# JOKES START HERE:
-
-<div id='id7'/>
-
 ## TENSE
 
 - The past, the present and the future walked into a bar. It was tense
 
-<div id='id6'/>
-
 ## CONSTRUCTION
 
-- **Q:** Want to hear a joke about construction? 
+- **Q:** Want to hear a joke about construction?
 - **A:** I'm still working on it.
-
-<div id='id5'/>
 
 ## BROWN STICK
 
 - **Q:** What's brown and sticky?
 - **A:** A stick.
 
-<div id='id4'/>
-
 ## HOLY WATER
 
 - **Q:** How do you make holy water?
 - **A:** You boil the hell out of it.
-
-<div id='id3'/>
 
 ## LANGUAGES
 
 - **Q:** What is the least spoken language in the world?
 - **A:** Sign language
 
-<div id='id2'/>
-
 ## VEGETARIAN ZOMBIES
 
 - **Q:** What does a zombie vegetarian eat?
 - **A:** “GRRRAAAAAIIIINNNNS!”
-
-<div id='id1'/>
 
 ## ASS-ASSINS
 
 - **Q:** What has two butts and kills people?
 - **A:** An assassin
 
-<div id='id8'/>
-
 ## PEANUTS
 
 - **Q:** Why did the two peanuts run away from the tough neighborhood at night?
 - **A:** Because one of them was a-salted (assaulted).
-
-<div id='id9'/>
 
 ## KILLER BEE
 
