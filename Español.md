@@ -8,8 +8,6 @@ Escribe un título corto para tu chiste y añádelo en la parte superior (es una
 - Evita dar contexto tanto como puedas. Deja sólo la esencia del chiste para que los lectores puedan completarlo como quieran.
   - Si el chiste es muy técnico, haz que el título ofrezca el contexto.
 - Haz el chiste lo más corto posible. Deja sólo lo necesario.
-- Ayuda a mantener el índice actualizado:
-  - Añade en el propio índice la referencia **[TÍTULO DEL CHISTE]\(#idX)**
 - Sigue este formato para hacerlo sencillo de leer:
   - Escribe la narración o descripción en frases cortas.
   - Escribe las conversaciones como listas.
