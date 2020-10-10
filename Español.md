@@ -31,7 +31,7 @@ Escribe un título corto para tu chiste y añádelo en la parte superior (es una
 
 ## HIENAS COMIENDO
 
-Están dos hienas comiéndose una zebra y le dice una a la otra:
+Están dos hienas comiéndose una cebra y le dice una a la otra:
 - Oye yo ya no quiero más de esto, ¿quieres mi parte?
 - No, gracias, yo ya estoy "hiena".
 
@@ -39,9 +39,9 @@ Están dos hienas comiéndose una zebra y le dice una a la otra:
 
 - ¡Capitán! ¡Capitán! ¡Veo un barco a la derecha!
 - Marinero, se dice estribor.
-- Capitán! ¡Capitán! ¡Veo un estribor a la derecha!
+- ¡Capitán! ¡Capitán! ¡Veo un estribor a la derecha!
 
-## EL CAFE
+## EL CAFÉ
 
 - Me da un café con leche corto.
 - Se me ha roto la máquina, cambio.
@@ -49,7 +49,7 @@ Están dos hienas comiéndose una zebra y le dice una a la otra:
 ## El BIZCO
 
 Esto son dos chicos, un chaval y su amigo bizco.
-- Dice el amigo: ¡Nos vemos tio!
+- Dice el amigo: ¡Nos vemos tío!
 - Dice el bizco: ¡¡Hasta luego chavales!!
 
 ## EL CARACOL
@@ -76,7 +76,7 @@ Una vez, una pareja estaba en un crucero de vacaciones. El novio decide proponer
 -Si encuentras el anillo en las próximas 24 horas, me casaré contigo.
 El hombre procede a bucear durante las próximas 24 horas, pero no logra encontrar el anillo, así que vuelve a la mujer y se lo cuenta.
 Resignados, la pareja se va a un restaurante, donde el hombre planea volver a proponerse.
-Piden una langosta para comer, y el hombre se espera hasta que llega la comida. Sin embargo, al abrir la langosta, el hombre encuentra algo...
+Piden una langosta para comer, y el hombre espera hasta que llega la comida. Sin embargo, al abrir la langosta, el hombre encuentra algo...
 
 El chocobollo.
 
@@ -104,7 +104,7 @@ Va un barco a un muelle y rebota.
 *Pasan otros quince años en silencio.*
 
 - Hermano, han pasado otros quince años. ¿Deseas decir algo?
-- Sí, maestro. Creo que voy a dejar el monsterio. Me he dado cuenta de que esto no es lo mío.
+- Sí, maestro. Creo que voy a dejar el monasterio. Me he dado cuenta de que esto no es lo mío.
 - Normal, si llevas quejándote desde el primer día.
 
 ## EL CÁLCULO RENAL
@@ -175,7 +175,7 @@ Va un barco a un muelle y rebota.
 
 ## EL PEPINO DEL GINTONIC
 
-- Camarero, un gintonic, por favor.
+- Camarero, un gin tonic, por favor.
 - ¿Le pongo pepino?
 - Desde el primer día que lo vi.
 
@@ -200,7 +200,7 @@ En un entierro:
 ## LA BOMBILLA EMBARAZADA
 
 - **P:** ¿Por qué la bombilla tiene panza?
-- **R:** Porque va dar a luz.
+- **R:** Porque va a dar a luz.
 
 ## EL JARDINERO DESEMPLEADO
 
@@ -235,7 +235,7 @@ Un chico entra a una tienda de música y compra una batería. ***BaDumTss***
 
 ## EL JUICIO DE LOS CANIS
 
-- **P:** ¿Dónde van los canis cuando se les denuncian?
+- **P:** ¿Dónde van los canis cuando se les denuncia?
 - **R:** Al tribunal ShUrPrheMoh
 
 ## ¿SUSPIRÁIS?
@@ -269,7 +269,7 @@ Si nunca fuiste a París no tuviste in Francia.
 
 ## LA ABUELA INFORMÁTICA
 
-- ¡Abuela! ¿Qué haces sentada delante del ordenador con lo ojos cerrados?
+- ¡Abuela! ¿Qué haces sentada delante del ordenador con los ojos cerrados?
 - Me puso que tenía que cerrar las pestañas.
 
 ## CUENTA CON...
@@ -294,7 +294,7 @@ Y Babor murió calcinado.
 
 - ¡Abordar el barco!
 
-Y el barco quedo precioso.
+Y el barco quedó precioso.
 
 ## LA SONRISA
 
@@ -355,7 +355,7 @@ Y el barco quedo precioso.
 
 ## LA ESTRUCTURA DE LA TAZA
 
-- ¿De cuántas partes esta formada una taza?
+- ¿De cuántas partes está formada una taza?
 - Depende de la fuerza del martillazo.
 
 ## EL PACIENTE CON DOLENCIAS
@@ -382,7 +382,7 @@ Los automóviles ni se crean ni se destruyen, sólo se Transformer.
 
 ## LA HARINA DE JACK SPARROW
 
-- **P:** ¿Para qué quieren harina en el barco de Jack sparrow?
+- **P:** ¿Para qué quieren harina en el barco de Jack Sparrow?
 - **R:** (Al ritmo de [piratas del caribe](https://www.youtube.com/watch?v=27mB8verLK8)) Para pan pan, para pan pan, para pan pan para pan.
 
 ## TE ENTIENDO
@@ -508,7 +508,7 @@ Si hay que ir al Ikea se va. Pero ir para nada estantería.
 
 ## EL HERCÚLEO AGUANTE DE RESPIRACIÓN
 
-- Un amigo mío ayer contenió 15 minutos la respiración bajo el agua.
+- Un amigo mío ayer contuvo 15 minutos la respiración bajo el agua.
 - Será *contuvo*.
 - No, no, sin tubo ni nada.
 
@@ -542,7 +542,7 @@ Si hay que ir al Ikea se va. Pero ir para nada estantería.
 
 ## LA AUTOPSIA ANIMADA
 
-- ¿Cómo empezamos la autopsia doctor? ¿Análisis de fluídos, o abrimos la caja torácica?
+- ¿Cómo empezamos la autopsia, doctor? ¿Análisis de fluidos, o abrimos la caja torácica?
 - ¡La caja, la caja! ¡Aquí hemos venido a jugar!
 
 ## ESTUDIO EN TEOLOGÍA
@@ -580,7 +580,7 @@ Si Jesucristo tuviera un hermano gemelo serían clavados.
 
 ## EL FANTASMA TORPE
 
-Van dos fantasmas y se cae el del medium.
+Van dos fantasmas y se cae el del médium.
 
 ## LOS ZOMBIS PARLANTES
 
@@ -590,7 +590,7 @@ Si dos zombis van por la calle hablando dos idiomas, ¿zombilingües?
 
 Si nunca has ido a un laberinto, no sabes lo que te pierdes.
 
-## EL ALQUIER
+## EL ALQUILER
 
 - ¿Vendes tu casa?
 - Alquilo.
@@ -644,3 +644,5 @@ El otro día soñé que estaba en un campo de cereales. Me desperté todo intrig
 
 - **P:** ¿Qué es verde y huele como la pintura?
 - **R:** Pintura verde
+
+
