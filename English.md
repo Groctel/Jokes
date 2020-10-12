@@ -2,7 +2,7 @@
 
 ## ADDING JOKES:
 
-Write a short title for your joke and add it at the top. There are a few simple rules to make this enjoyable for everybody:
+Write a short title for your joke and add it at the top of the joke and index lists. There are a few simple rules to make this enjoyable for everybody:
 - Don't submit offensive, sexual or dark humour jokes.
   - Foul language is allowed, but only to add emphasis or in known sentences and without overdoing it.
 - Avoid context as much as possible. Leave the joke's essence so that readers can complete it the way they want
@@ -13,6 +13,18 @@ Write a short title for your joke and add it at the top. There are a few simple 
   - Write conversations as lists.
   - In question and answer jokes, write **Q:** and **A:** before their line.
 - **Have fun!**
+
+# INDEX
+
+- [Tense](#tense)
+- [Construction](#construction)
+- [Brown Stick](#brown-stick)
+- [Holy Water](#holy-water)
+- [Languages](#languages)
+- [Vegetarian Zombies](#vegetarian-zombies)
+- [Ass-assins](#ass-assins)
+- [Peanuts](#peanuts)
+- [Killer Bee](#killer-bee)
 
 ## TENSE
 

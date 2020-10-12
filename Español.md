@@ -2,7 +2,7 @@
 
 ## CÓMO AÑADIR CHISTES:
 
-Escribe un título corto para tu chiste y añádelo en la parte superior (es una pila). Sigue unas pocas normas sencillitas para que todos nos lo pasemos bien:
+Escribe un título corto para tu chiste y añádelo en la parte superior (es una pila), además de al índice con su referencia correspondiente (suele ser el título tal cual, en minúsculas y sustituyendo los espacios por guiones). Sigue unas pocas normas sencillitas para que todos nos lo pasemos bien:
 - No mandes chistes ofensivos, sexuales o de humor negro.
   - El lenguaje soez está permitido, pero para dar énfasis o en expresiones conocidas y sin pasarse.
 - Evita dar contexto tanto como puedas. Deja sólo la esencia del chiste para que los lectores puedan completarlo como quieran.
@@ -14,7 +14,7 @@ Escribe un título corto para tu chiste y añádelo en la parte superior (es una
   - En chistes de preguntas y respuestas, escribe **P:** y **R:** antes de su línea.
 - **¡Diviértete!**
 
-# Índice
+# ÍNDICE
 - [Parecidos](#parecidos)
 - [Las Zapatillas](#las-zapatillas)
 - [Hienas Comiendo](#hienas-comiendo)
@@ -100,7 +100,7 @@ Escribe un título corto para tu chiste y añádelo en la parte superior (es una
 - [El Reencuentro en la Pizzería](#el-reencuentro-en-la-pizzería)
 - [El Caballero de Falador](#el-caballero-de-falador)
 - [El Paciente Terminal](#el-paciente-terminal)
-- [La Gelaina](#la-gelatina)
+- [La Gelatina](#la-gelatina)
 - [El Terapeuta](#el-terapeuta)
 - [La Autopsia Animada](#la-autopsia-animada)
 - [Estudio en Teología](#estudio-en-teología)
