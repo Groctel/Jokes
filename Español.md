@@ -15,11 +15,114 @@ Escribe un título corto para tu chiste y añádelo en la parte superior (es una
 - **¡Diviértete!**
 
 # Índice
-1. [Parecidos](#parecidos)
-2. [Las Zapatillas](#las-zapatillas)
-3. [Hienas Comiendo](#hienas-comiendo)
-4. [Capitán](#capitán)
-5. [El Café](#el-café)
+- [Parecidos](#parecidos)
+- [Las Zapatillas](#las-zapatillas)
+- [Hienas Comiendo](#hienas-comiendo)
+- [Capitán](#capitán)
+- [El Café](#el-café)
+- [El Bizco](#el-bizco)
+- [El Caracol](#el-caracol)
+- [El Chocobollo](#el-chocobollo)
+- [El Muelle](#el-muelle)
+- [La Orden Silenciosa](#la-orden-silenciosa)
+- [El Cálculo Renal](#el-cálculo-renal)
+- [Aire Acondicionado](#aire-acondicionado)
+- [El Informático Amargado](#el-informático-amargado)
+- [El Cuadro Barroco](#el-cuadro-barroco)
+- [Las Apuestas del Estado](#las-apuestas-del-estado)
+- [El Pizzero Rico](#el-pizzero-rico)
+- [Curso de Manipulador de Alimentos](#curso-de-manipulador-de-alimentos)
+- [Números y Colores](#números-y-colores)
+- [El Examen Imposible](#el-examen-imposible)
+- [El Plátano Blando](#el-plátano-blando)
+- [El Videoclub](#el-videoclub)
+- [El Pepino del Gin Tonic](#el-pepino-del-gin-tonic)
+- [La Hemiplejia](#la-hemiplejia)
+- [El Tumbado del Entierro](#el-tumbado-del-entierro)
+- [El Estanque de los Muertos](#el-estanque-de-los-muertos)
+- [La Bombilla Embarazada](#la-bombilla-embarazada)
+- [El Jardinero Desempleado](#el-jardinero-desempleado)
+- [El Enchufe de Toda la Vida](#el-enchufe-de-toda-la-vida)
+- [El Análisis de Heces](#el-análisis-de-heces)
+- [Badumtss](#badumtss)
+- [El Borracho y el Ciego](#el-borracho-y-el-ciego)
+- [El Juicio de los Canis](#el-juicio-de-los-canis)
+- [¿Suspiráis?](#¿suspiráis?)
+- [El Mudo Bailarín](#el-mudo-bailarín)
+- [El Panadero Rico](#el-panadero-rico)
+- [Los Reyes Magos](#los-reyes-magos)
+- [El Panadero Vago](#el-panadro-vago)
+- [La Infancia Parisina](#la-infancia-parisina)
+- [La Abuela Informática](#la-abuela-informática)
+- [Cuenta con...](#cuenta-con...)
+- [Casi Racista](#casi-racista)
+- [40 Grados a Babor](#40-grados-a-babor)
+- [Abordar el Barco](#abordar-el-barco)
+- [La Sonrisa](#la-sonrisa)
+- [La Pintura de Colores](#la-pintura-de-colores)
+- [México, qué Gran País](#méxico-qué-gran-país)
+- [El Supertrabajo](#el-supertrabajo)
+- [La Caída Mortal](#la-caída-mortal)
+- [El Nuevo Elemento](#el-nuevo-elemento)
+- [El Intento de Ligar](#el-intento-de-ligar)
+- [Extraños Parecidos](#extraños-parecidos)
+- [Verde y Mortal](#verde-y-mortal)
+- [La Esquina Calentita](#la-esquina-calentita)
+- [El Recluta sin Contrato](#el-recluta-sin-contrato)
+- [La Estructura de la Taza](#la-estructura-de-la-taza)
+- [El Paciente con Dolencias](#el-paciente-con-dolencias)
+- [El Paciente con Múltiples Dolencias](#el-paciente-con-múltiples-dolencias)
+- [La Primera Ley de la Automovilística](#la-primera-ley-de-la-automovilística)
+- [Hazte el Sueco](#hazte-el-sueco)
+- [La Harina de Jack Sparrow](#la-harina-de-jack-sparrow)
+- [Te Entiendo](#te-entiendo)
+- [El Trabajo de Dibujo Técnico](#el-trabajo-de-dibujo-técnico)
+- [El Tipo sin Móvil](#el-tipo-sin-móvil)
+- [La Superheroína](#la-superheroína)
+- [La Muerte Natural](#la-muerte-natural)
+- [Pingüinos del Desierto](#pingüinos-del-desierto)
+- [Star Wars, Película Popular](#star-wars-película-popular)
+- [La Soledad](#la-soledad)
+- [La Compra de Palomas](#la-compra-de-palomas)
+- [El Pez Mago](#el-pez-mago)
+- [La Visita al Ikea](#la-visita-al-ikea)
+- [Los Ladrones de Vasos](#los-ladrones-de-vasos)
+- [¿Buscas Problemas?](#buscas-problemas)
+- [El Vago](#el-vago)
+- [La Primera Página del Libro](#la-primera-página-del-libro)
+- [El Currículum Brillante](#el-currículum-brillante)
+- [El Hijo Boxeador](#el-hijo-boxeador)
+- [I Just Blued Myself](#i-just-blued-myself)
+- [Las Impresoras](#las-impresoras)
+- [El Asiento del Cine](#el-asiento-del-cine)
+- [El Saludo](#el-saludo)
+- [El Hercúleo Aguante de Respiración](#el-hercúleo-aguante-de-respiración)
+- [El Reencuentro en la Pizzería](#el-reencuentro-en-la-pizzería)
+- [El Caballero de Falador](#el-caballero-de-falador)
+- [El Paciente Terminal](#el-paciente-terminal)
+- [La Gelaina](#la-gelatina)
+- [El Terapeuta](#el-terapeuta)
+- [La Autopsia Animada](#la-autopsia-animada)
+- [Estudio en Teología](#estudio-en-teología)
+- [El Doctor Despistado](#el-doctor-despistado)
+- [El Paciente con Prisas](#el-paciente-con-prisas)
+- [El Pegamento, el avión y la familia](#el-pegamento-el-avión-y-la-familia)
+- [El Gemelo de Cristo](#el-gemelo-de-cristo)
+- [El Niño sin Parque de Atracciones](#el-niño-sin-parque-de-atracciones)
+- [El Fantasma Torpe](#el-fantasma-torpe)
+- [Las Zombis Parlantes](#las-zombis-parlantes)
+- [El Laberinto](#el-laberinto)
+- [El Alquiler](#el-alquiler)
+- [El Origen de la Porcelana](#el-origen-de-la-porcelana)
+- [El Pirata Chivato](#el-pirata-chivato)
+- [El Más Allá de los Albañiles](el-más-allá-de-los-albañiles)
+- [El Nombre del Niño](#el-nombre-del-niño)
+- [El Sueño Trigal](#el-sueño-trigal)
+- [El Escéptico](#el-escéptico)
+- [El Mago Comilón](#el-mago-comilón)
+- [El Miope](#el-miope)
+- [Paulo Coelho](#paulo-coelho)
+- [Pinturas](#pinturas)
 
 ## PARECIDOS
 
@@ -180,7 +283,7 @@ Va un barco a un muelle y rebota.
 - Buenos días, me gustaría alquilar Batman Forever.
 - No es posible, tiene que devolverla tomorrow.
 
-## EL PEPINO DEL GINTONIC
+## EL PEPINO DEL GIN TONIC
 
 - Camarero, un gin tonic, por favor.
 - ¿Le pongo pepino?
@@ -515,7 +618,7 @@ Si hay que ir al Ikea se va. Pero ir para nada estantería.
 
 ## EL HERCÚLEO AGUANTE DE RESPIRACIÓN
 
-- Un amigo mío ayer contuvo 15 minutos la respiración bajo el agua.
+- Un amigo mío ayer contenió 15 minutos la respiración bajo el agua.
 - Será *contuvo*.
 - No, no, sin tubo ni nada.
 
@@ -642,7 +745,7 @@ El otro día soñé que estaba en un campo de cereales. Me desperté todo intrig
 - Doctor, ¿qué pasará si me pongo estas gafas?
 - Ya verás.
 
-## PAULO COEHLO
+## PAULO COELHO
 
 - Paulo Coelho.
 - Coelho tú que yo no lo arcanso.
@@ -653,3 +756,4 @@ El otro día soñé que estaba en un campo de cereales. Me desperté todo intrig
 - **R:** Pintura verde
 
 
+ 
