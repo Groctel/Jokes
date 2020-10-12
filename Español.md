@@ -14,6 +14,13 @@ Escribe un título corto para tu chiste y añádelo en la parte superior (es una
   - En chistes de preguntas y respuestas, escribe **P:** y **R:** antes de su línea.
 - **¡Diviértete!**
 
+# Índice
+1. [Parecidos](#parecidos)
+2. [Las Zapatillas](#las-zapatillas)
+3. [Hienas Comiendo](#hienas-comiendo)
+4. [Capitán](#capitán)
+5. [El Café](#el-café)
+
 ## PARECIDOS
 
 *Dos amigos hablando.*
