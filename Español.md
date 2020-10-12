@@ -15,6 +15,7 @@ Escribe un título corto para tu chiste y añádelo en la parte superior (es una
 - **¡Diviértete!**
 
 # ÍNDICE
+- [Aguacate](#aguacate)
 - [Parecidos](#parecidos)
 - [Las Zapatillas](#las-zapatillas)
 - [Hienas Comiendo](#hienas-comiendo)
@@ -123,6 +124,12 @@ Escribe un título corto para tu chiste y añádelo en la parte superior (es una
 - [El Miope](#el-miope)
 - [Paulo Coelho](#paulo-coelho)
 - [Pinturas](#pinturas)
+
+## AGUACATE
+
+- ¿Sabías que el aguacate es 50% agua?
+- ¿Y el otro 50%?
+- Cate
 
 ## PARECIDOS
 
