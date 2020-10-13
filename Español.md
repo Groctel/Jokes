@@ -14,6 +14,11 @@ Escribe un título corto para tu chiste y añádelo en la parte superior (es una
   - En chistes de preguntas y respuestas, escribe **P:** y **R:** antes de su línea.
 - **¡Diviértete!**
 
+## CALL OF GUPPY
+
+Están dos peces en un tanque y dice uno:
+- Oye, ¿esta mierda cómo dispara?
+
 ## AGUACATE
 
 - ¿Sabías que el aguacate es 50% agua?
