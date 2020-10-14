@@ -14,6 +14,17 @@ Escribe un título corto para tu chiste y añádelo en la parte superior (es una
   - En chistes de preguntas y respuestas, escribe **P:** y **R:** antes de su línea.
 - **¡Diviértete!**
 
+## CALL OF GUPPY
+
+Están dos peces en un tanque y dice uno:
+- Oye, ¿esta cosa cómo dispara?
+
+## AGUACATE
+
+- ¿Sabías que el aguacate es 50% agua?
+- ¿Y el otro 50%?
+- Cate
+
 ## PARECIDOS
 
 *Dos amigos hablando.*
@@ -173,7 +184,7 @@ Va un barco a un muelle y rebota.
 - Buenos días, me gustaría alquilar Batman Forever.
 - No es posible, tiene que devolverla tomorrow.
 
-## EL PEPINO DEL GINTONIC
+## EL PEPINO DEL GIN TONIC
 
 - Camarero, un gin tonic, por favor.
 - ¿Le pongo pepino?
@@ -508,7 +519,7 @@ Si hay que ir al Ikea se va. Pero ir para nada estantería.
 
 ## EL HERCÚLEO AGUANTE DE RESPIRACIÓN
 
-- Un amigo mío ayer contuvo 15 minutos la respiración bajo el agua.
+- Un amigo mío ayer contenió 15 minutos la respiración bajo el agua.
 - Será *contuvo*.
 - No, no, sin tubo ni nada.
 
@@ -635,7 +646,7 @@ El otro día soñé que estaba en un campo de cereales. Me desperté todo intrig
 - Doctor, ¿qué pasará si me pongo estas gafas?
 - Ya verás.
 
-## PAULO COEHLO
+## PAULO COELHO
 
 - Paulo Coelho.
 - Coelho tú que yo no lo arcanso.
@@ -646,3 +657,4 @@ El otro día soñé que estaba en un campo de cereales. Me desperté todo intrig
 - **R:** Pintura verde
 
 
+ 
