@@ -17,7 +17,7 @@ Escribe un título corto para tu chiste y añádelo en la parte superior (es una
 ## CALL OF GUPPY
 
 Están dos peces en un tanque y dice uno:
-- Oye, ¿esta mierda cómo dispara?
+- Oye, ¿esta cosa cómo dispara?
 
 ## AGUACATE
 
