@@ -14,6 +14,12 @@ Escribe un título corto para tu chiste y añádelo en la parte superior (es una
   - En chistes de preguntas y respuestas, escribe **P:** y **R:** antes de su línea.
 - **¡Diviértete!**
 
+## RENT A CAR
+*Un señor quiere alquilar un coche*
+- ¿Cuánto vale alquilar un coche?
+- Depende del tiempo
+- Pongamos que llueve
+
 ## CALL OF GUPPY
 
 Están dos peces en un tanque y dice uno:
