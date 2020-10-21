@@ -14,6 +14,12 @@ Write a short title for your joke and add it at the top of the jokes list. There
   - In question and answer jokes, write **Q:** and **A:** before their line.
 - **Have fun!**
 
+## HYPOMAGNESIA
+*At the doctor's office*
+- **Doctor:** Your body has ran out of magnesium
+- **Patient:** 0MG
+
+
 ## TENSE
 
 - The past, the present and the future walked into a bar. It was tense
