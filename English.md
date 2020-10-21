@@ -19,7 +19,6 @@ Write a short title for your joke and add it at the top of the jokes list. There
 - **Doctor:** Your body has ran out of magnesium
 - **Patient:** 0MG
 
-
 ## TENSE
 
 - The past, the present and the future walked into a bar. It was tense
@@ -46,7 +45,7 @@ Write a short title for your joke and add it at the top of the jokes list. There
 
 ## VEGETARIAN ZOMBIES
 
-- **Q:** What does a zombie vegetarian eat?
+- **Q:** What does a vegetarian zombie eat?
 - **A:** “GRRRAAAAAIIIINNNNS!”
 
 ## ASS-ASSINS
